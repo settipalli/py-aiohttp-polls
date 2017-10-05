@@ -1,5 +1,10 @@
 aiohttp==2.2.5
+aiopg==0.13.1
 async-timeout==1.4.0
 chardet==3.0.4
 multidict==3.2.0
+pathlib==1.0.1
+psycopg2==2.7.3.1
+PyYAML==3.12
+SQLAlchemy==1.1.14
 yarl==0.13.0
