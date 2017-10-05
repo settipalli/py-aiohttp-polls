@@ -1,0 +1,56 @@
+*.py[co]
+*.DS_*
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+# Translations
+*.mo
+
+# Development
+.env
+venv
+*.pyc
+build
+
+# User-specific stuff:
+.idea/*
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# database
+data.db
+
+# vscode
+.vscode/*
+
+# backup files
+backup/*
+
+# temporary ssl certs
+ssl.*
+
